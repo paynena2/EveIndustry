@@ -10,5 +10,8 @@ I created this application to interface with the evemarketer API that tracks the
 
 How to use this program?
 
-Download the exe file and the input csv file, store them in the same directory. Run the exe, and it will output a csv that store various attributes about each item.
+Download the exe file and the input csv file, store them in the same directory. Run the exe, and it will output a csv that stores various attributes about each item.
 
+Exapandability:
+
+If Eve Online ever adds new items to the game, the input csv file can be updated with the id and the name of each item, and will produce an output for the new items.
